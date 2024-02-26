@@ -1,0 +1,21 @@
+tulchin@tulchin-HP-ProBook-440-G6:~/PycharmProjects/Python/hw1/nl$ python3 nl.py example.txt
+     1	Earthmovers were the pinnacle of the arms race. Often called the horsemen of the apocalypse,
+     2	it took only one to level an entire city and leave nothing but fire in its wake. The last era of the Final War had begun.
+     3
+     4	The first machines large enough to house a shield generator, these walking fortresses could only be made
+     5	vulnerable from within, making them the new frontlines for smaller, more mobile machines.
+     6	Due to their colossal size, they required both blood and solar power to function.
+     7
+     8	When the final era escalated, cleansing the world with fire, the surviving civilians were forced to evacuate and build
+     9	new homes on the backs of these machines, as the surface became an inhospitable wasteland where no flora or fauna could flourish.
+    10
+    11	Eventually the soot, smoke and decay from unending global war would blot out the sun, casting the world into the
+    12	Long Night, and Earthmovers, unable to feed on sunlight, shut down and died out one by one.
+    13
+    14	War had become entirely dependent on them, large scale conflict was no longer feasible. Finally,
+    15	mankind started to work together to reverse the effects of the Long Night climate catastrophe, and so began
+    16	the New Peace. 200 years of war for its own sake ended not with a bang, but utter silence.
+    17
+    18	At the brink of despair, the planet would slowly learn to breathe once more, and the corpses of these titans would serve
+    19	as a stark reminder of just how close mankind was to an apocalypse by their own hand.
+tulchin@tulchin-HP-ProBook-440-G6:~/PycharmProjects/Python/hw1/nl$

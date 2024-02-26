@@ -1,0 +1,13 @@
+One of the many war machines created during the Final War. Although there were attempts to find new purpose for them
+during the New Peace, their streamlined design made them unable to be repurposed until the start of
+the Hell expeditions.
+
+Their extremely powerful legs and feet allow them to dig into the ground, making them immovable by most forces and
+allowing them to easily line up any shot without interruption.
+
+Despite their size, they were built to be extremely light, which when combined with the power of their legs, allows
+them to move at extremely fast speeds. Such power and lightness have made their legs one of the most sought after
+parts by scrapheads.
+
+Most machines will only render a simplified approximation of their visual surroundings for faster processing speed,
+but Sentries use full renders instead, giving them perfect accuracy even over extremely long distances.
