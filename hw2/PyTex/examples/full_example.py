@@ -25,7 +25,7 @@ if __name__ == "__main__":
     
 \\end{{document}}
 """
-    with open("artifacts/full/output.tex", "w") as file:
+    with open("../artifacts/full/output.tex", "w") as file:
         file.write(latex_content)
 
     subprocess.run(["pdflatex", "output.tex"], cwd="artifacts/full")

@@ -1,0 +1,7 @@
+version: '3'
+services:
+  pdf_generator:
+    build: .
+    volumes:
+      - ./artifacts:/usr/src/app/artifacts
+

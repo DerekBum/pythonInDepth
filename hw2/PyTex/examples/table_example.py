@@ -15,7 +15,7 @@ if __name__ == "__main__":
                    '\\begin{document}\n')
     latex_end = '\\end{document}'
 
-    with open("artifacts/output_table.tex", "w") as file:
+    with open("../artifacts/output_table.tex", "w") as file:
         file.write(latex_begin)
         file.write(latex_table)
         file.write(latex_end)

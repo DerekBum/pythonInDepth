@@ -17,6 +17,7 @@ def generate_latex_table(data):
 
     return latex_table
 
+
 def generate_latex_image(image_path):
     """
     Generate LaTeX code for inserting an image.
