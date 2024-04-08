@@ -1,0 +1,33 @@
+ThreadPoolExecutor time, 1 jobs: 0.02155613899230957
+ThreadPoolExecutor time, 2 jobs: 0.01955270767211914
+ThreadPoolExecutor time, 3 jobs: 0.020356416702270508
+ThreadPoolExecutor time, 4 jobs: 0.023340225219726562
+ThreadPoolExecutor time, 5 jobs: 0.025638103485107422
+ThreadPoolExecutor time, 6 jobs: 0.027644872665405273
+ThreadPoolExecutor time, 7 jobs: 0.0266873836517334
+ThreadPoolExecutor time, 8 jobs: 0.027321338653564453
+ThreadPoolExecutor time, 9 jobs: 0.02837848663330078
+ThreadPoolExecutor time, 10 jobs: 0.029976367950439453
+ThreadPoolExecutor time, 11 jobs: 0.03204035758972168
+ThreadPoolExecutor time, 12 jobs: 0.03379225730895996
+ThreadPoolExecutor time, 13 jobs: 0.03350687026977539
+ThreadPoolExecutor time, 14 jobs: 0.03446531295776367
+ThreadPoolExecutor time, 15 jobs: 0.0349268913269043
+ThreadPoolExecutor time, 16 jobs: 0.035260915756225586
+
+ProcessPoolExecutor time, 1: 0.029304027557373047
+ProcessPoolExecutor time, 2: 0.013902425765991211
+ProcessPoolExecutor time, 3: 0.011329889297485352
+ProcessPoolExecutor time, 4: 0.010735273361206055
+ProcessPoolExecutor time, 5: 0.01474308967590332
+ProcessPoolExecutor time, 6: 0.014418363571166992
+ProcessPoolExecutor time, 7: 0.014490842819213867
+ProcessPoolExecutor time, 8: 0.015556097030639648
+ProcessPoolExecutor time, 9: 0.01676321029663086
+ProcessPoolExecutor time, 10: 0.01744866371154785
+ProcessPoolExecutor time, 11: 0.018947601318359375
+ProcessPoolExecutor time, 12: 0.02105259895324707
+ProcessPoolExecutor time, 13: 0.021648645401000977
+ProcessPoolExecutor time, 14: 0.021261215209960938
+ProcessPoolExecutor time, 15: 0.022294998168945312
+ProcessPoolExecutor time, 16: 0.025142192840576172

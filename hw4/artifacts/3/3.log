@@ -1,0 +1,42 @@
+2024-04-08 19:51:37,126 -   MAIN PROCESS: message 'QWERTY' [0]: SENT TO A
+2024-04-08 19:51:37,130 -      A PROCESS: message 'QWERTY' [0]: EXTRACTED
+2024-04-08 19:51:37,133 -      A PROCESS: message 'qwerty' [0]: SENT TO B
+2024-04-08 19:51:37,135 -      B PROCESS: message 'qwerty' [0]: EXTRACTED
+2024-04-08 19:51:37,138 -      B PROCESS: message 'djregl' [0]: ENCODED
+2024-04-08 19:51:37,140 -      B PROCESS: message 'djregl' [0]: SENT TO MAIN
+2024-04-08 19:51:37,141 -   MAIN PROCESS: message 'djregl' [0]: RECEIVED
+2024-04-08 19:51:38,528 -   MAIN PROCESS: message 'UJNH' [1]: SENT TO A
+2024-04-08 19:51:39,393 -   MAIN PROCESS: message 'WEWERWER' [2]: SENT TO A
+2024-04-08 19:51:40,418 -   MAIN PROCESS: message 'SDVSDMSDL' [3]: SENT TO A
+2024-04-08 19:51:42,136 -      A PROCESS: message 'UJNH' [1]: EXTRACTED
+2024-04-08 19:51:42,136 -      A PROCESS: message 'ujnh' [1]: SENT TO B
+2024-04-08 19:51:42,137 -      B PROCESS: message 'ujnh' [1]: EXTRACTED
+2024-04-08 19:51:42,137 -      B PROCESS: message 'hwau' [1]: ENCODED
+2024-04-08 19:51:42,138 -      B PROCESS: message 'hwau' [1]: SENT TO MAIN
+2024-04-08 19:51:42,138 -   MAIN PROCESS: message 'hwau' [1]: RECEIVED
+2024-04-08 19:51:47,140 -      A PROCESS: message 'WEWERWER' [2]: EXTRACTED
+2024-04-08 19:51:47,141 -      A PROCESS: message 'wewerwer' [2]: SENT TO B
+2024-04-08 19:51:47,141 -      B PROCESS: message 'wewerwer' [2]: EXTRACTED
+2024-04-08 19:51:47,142 -      B PROCESS: message 'jrjrejre' [2]: ENCODED
+2024-04-08 19:51:47,142 -      B PROCESS: message 'jrjrejre' [2]: SENT TO MAIN
+2024-04-08 19:51:47,143 -   MAIN PROCESS: message 'jrjrejre' [2]: RECEIVED
+2024-04-08 19:51:47,544 -   MAIN PROCESS: message 'HELLoworLD' [4]: SENT TO A
+2024-04-08 19:51:50,698 -   MAIN PROCESS: message '34252!@#!@#' [5]: SENT TO A
+2024-04-08 19:51:52,144 -      A PROCESS: message 'SDVSDMSDL' [3]: EXTRACTED
+2024-04-08 19:51:52,144 -      A PROCESS: message 'sdvsdmsdl' [3]: SENT TO B
+2024-04-08 19:51:52,145 -      B PROCESS: message 'sdvsdmsdl' [3]: EXTRACTED
+2024-04-08 19:51:52,145 -      B PROCESS: message 'fqifqzfqy' [3]: ENCODED
+2024-04-08 19:51:52,145 -      B PROCESS: message 'fqifqzfqy' [3]: SENT TO MAIN
+2024-04-08 19:51:52,146 -   MAIN PROCESS: message 'fqifqzfqy' [3]: RECEIVED
+2024-04-08 19:51:57,148 -      A PROCESS: message 'HELLoworLD' [4]: EXTRACTED
+2024-04-08 19:51:57,149 -      A PROCESS: message 'helloworld' [4]: SENT TO B
+2024-04-08 19:51:57,149 -      B PROCESS: message 'helloworld' [4]: EXTRACTED
+2024-04-08 19:51:57,150 -      B PROCESS: message 'uryybjbeyq' [4]: ENCODED
+2024-04-08 19:51:57,150 -      B PROCESS: message 'uryybjbeyq' [4]: SENT TO MAIN
+2024-04-08 19:51:57,151 -   MAIN PROCESS: message 'uryybjbeyq' [4]: RECEIVED
+2024-04-08 19:52:02,152 -      A PROCESS: message '34252!@#!@#' [5]: EXTRACTED
+2024-04-08 19:52:02,153 -      A PROCESS: message '34252!@#!@#' [5]: SENT TO B
+2024-04-08 19:52:02,153 -      B PROCESS: message '34252!@#!@#' [5]: EXTRACTED
+2024-04-08 19:52:02,154 -      B PROCESS: message '34252!@#!@#' [5]: ENCODED
+2024-04-08 19:52:02,154 -      B PROCESS: message '34252!@#!@#' [5]: SENT TO MAIN
+2024-04-08 19:52:02,154 -   MAIN PROCESS: message '34252!@#!@#' [5]: RECEIVED
